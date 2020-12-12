@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "sentimental-app"
+    }
+  },
+  "defaultProject": "sentimental-app",
+  "cli": {
+    "analytics": false
+  }
 }
