@@ -1,1 +1,8 @@
-<p>input-area works!</p>
+<label>
+  Name:
+  <input type="text" [formControl]="inputForm">
+</label>
+
+<p>
+  {{ inputForm.value }}
+</p>
