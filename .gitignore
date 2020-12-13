@@ -44,3 +44,6 @@ testem.log
 # System Files
 .DS_Store
 Thumbs.db
+
+#
+sentimental-app-bc0d7c41944b.json
